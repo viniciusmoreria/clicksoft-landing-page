@@ -8,9 +8,16 @@
   },
   "dependencies": {
     "next": "latest",
+    "next-seo": "^4.5.0",
     "react": "^16.8.0",
+    "react-awesome-reveal": "^2.4.2",
     "react-dom": "^16.8.0",
-    "styled-components": "^5.0.0"
+    "react-icons": "^3.10.0",
+    "react-scroll": "^1.7.16",
+    "styled-components": "^5.1.0"
+  },
+  "resolutions": {
+    "**/styled-components": "5.1.0"
   },
   "devDependencies": {
     "babel-plugin-styled-components": "^1.8.0"
