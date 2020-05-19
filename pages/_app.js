@@ -43,16 +43,16 @@ export default class MyApp extends App {
         <NextSeo
           title='Clicksoft - Aplicativos, sites, sistemas e marketing digital.'
           description='Aplicativos, sites, sistemas e marketing digital.'
-          canonical='https://viniciusmoreeira.now.sh/'
+          canonical='https://clicksoft-landing-page.now.sh/'
           hrefLang='pt-BR'
           openGraph={{
-            url: 'https://viniciusmoreeira.now.sh/',
+            url: 'https://clicksoft-landing-page.now.sh/logo.png',
             title:
               'Clicksoft - Aplicativos, sites, sistemas e marketing digital.',
             description: 'Aplicativos, sites, sistemas e marketing digital.',
             images: [
               {
-                url: 'https://i.imgur.com/CDmlNOF.png',
+                url: 'https://clicksoft-landing-page.now.sh/logo.png',
                 width: 800,
                 height: 600,
                 alt: 'Website Logo',
